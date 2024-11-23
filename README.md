@@ -2,6 +2,8 @@
 **:mortar_board: Senior at Old Dominion University, studying Computer Science**
 <br>
  **🔭 Career interests include, but are not limited to, Data Science and Machine learning**
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yomnaE1&hide_progress=true)
 
  ![Yomna's GitHub stats](https://github-readme-stats.vercel.app/api?username=yomnaE1&show_icons=true&theme=transparent)
 
