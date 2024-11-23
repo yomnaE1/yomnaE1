@@ -4,7 +4,7 @@
  **🔭 Career interests include, but are not limited to, Data Science and Machine learning**
 
  ## 📫 How to reach me
- - **Email:**
+ - **Email:** yomnaelmousalami@gmail.com
  - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/yomna-elmousalami/)
 <!--
 **yomnaE1/yomnaE1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
