@@ -3,6 +3,8 @@
 <br>
  **🔭 Career interests include, but are not limited to, Data Science and Machine learning**
 
+ ![Yomna's GitHub stats](https://github-readme-stats.vercel.app/api?username=yomnaE1&show_icons=true&theme=transparent)
+
  ## 📫 How to reach me
  - **Email:** yomnaelmousalami@gmail.com
  - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/yomna-elmousalami/)
