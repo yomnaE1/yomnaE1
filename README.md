@@ -1,5 +1,6 @@
 ## Hi there 👋
-### :mortar_board: I
+### :mortar_board: Senior at Old Dominion University, studying Computer Science
+### 🔭 Career Field interests include, but are not limited to, Data Science, Machine learning, Product Management, Software Development, Software Engineering, UI/UX Design
 <!--
 **yomnaE1/yomnaE1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
