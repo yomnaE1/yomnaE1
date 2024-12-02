@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-pink?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-green?style=for-the-badge&logo=c%20programming&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C-green?style=for-the-badge&logo=c%20programming&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
 ![php](https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)
