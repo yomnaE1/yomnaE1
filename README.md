@@ -6,7 +6,7 @@
  ## 📫 How to reach me
  - **Email:** yomnaelmousalami@gmail.com
  - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/yomna-elmousalami/)
- - **Resume:** [Resume](https://drive.google.com/drive/folders/1iuxHTNnU1XPhgVODoBmh-SQ-hJVRhLJG?usp=sharing)
+ - **Resume:** [Resume](https://drive.google.com/uc?export=download&id=1fzcCA6oZUO-lO7dm4yH3v5kqjOc_DPFm)
 <!--
 **yomnaE1/yomnaE1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
