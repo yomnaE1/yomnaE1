@@ -20,11 +20,9 @@
  <a href="mailto:yomnaelmousalami@gmail.com">
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href = "https://www.linkedin.com/in/yomna-elmousalami/">
   <img src=https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white />
 </a>
-
 <a href = "https://drive.google.com/uc?export=download&id=1fzcCA6oZUO-lO7dm4yH3v5kqjOc_DPFm">
  <img src="https://img.shields.io/badge/resume-purple?style=for-the-badge&logo=resume&logoColor=white" />
 </a>
