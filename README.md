@@ -1,4 +1,4 @@
-## Hi, I'm Yomna 👋
+# Hi, I'm Yomna 👋
 **:mortar_board: Senior at Old Dominion University, studying Computer Science**
 <br>
  **🔭 Career interests include, but are not limited to, Data Science and Machine learning**
