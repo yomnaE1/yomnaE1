@@ -16,6 +16,11 @@
 
 
  ## 📫 How to reach me
+
+ <a href="mailto:yomnaelmousalami@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
  - **Email:** yomnaelmousalami@gmail.com
  - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/yomna-elmousalami/)
  - **Resume:** [Resume](https://drive.google.com/uc?export=download&id=1fzcCA6oZUO-lO7dm4yH3v5kqjOc_DPFm)
