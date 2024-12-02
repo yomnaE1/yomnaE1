@@ -3,7 +3,7 @@
 <br>
 **🔭 Career interests include, but are not limited to, Data Science and Machine learning**
 
-![Static Badge](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=coffee%20mug&logoColor=white)
+![Python](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=coffee%20mug&logoColor=white)
 
  ## 📫 How to reach me
  - **Email:** yomnaelmousalami@gmail.com
