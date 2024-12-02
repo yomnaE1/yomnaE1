@@ -5,7 +5,7 @@
 
 ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-pink?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
  ## 📫 How to reach me
