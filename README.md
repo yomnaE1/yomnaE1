@@ -1,7 +1,9 @@
 # Hi, I'm Yomna 👋
 **:mortar_board: Senior at Old Dominion University, studying Computer Science**
 <br>
-**🔭 Career interests include, but are not limited to, Data Science and Machine learning**
+**🔭 Interested include in Data Science, Machine learning, Software Engineering, and Research**
+
+Hello, welcome to my portfolio where I will showcase the projects that I have completed.
 
 ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java&logoColor=white)
