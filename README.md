@@ -1,7 +1,7 @@
 # Hi, I'm Yomna 👋
 **:mortar_board: Senior at Old Dominion University, studying Computer Science, minoring in Data Science**
 <br>
-**🔭 Interested include in Data Science, Machine Learning, Software Engineering, and Research**
+**🔭 Interested in Data Science, Machine Learning, Software Engineering, and Research**
 
 Hello, welcome to my portfolio where I will showcase the projects that I have completed.
 
