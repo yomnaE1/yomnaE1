@@ -23,6 +23,8 @@ I've been interested in CS ever since I've learned how to program my first HTML 
 ![php](https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=white)
 
 
+## 🎯 Featured Project: Legal Case Chronology Generator for LegalDuel
+
  ## 📫 How to reach me
 
  <a href="mailto:yomnaelmousalami@gmail.com">
