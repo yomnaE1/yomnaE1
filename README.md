@@ -22,12 +22,19 @@ I've been interested in CS ever since I've learned how to program my first HTML 
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
 ![php](https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=white)
 
+<br>
 
 ## 🎯 Featured Project: Legal Case Chronology Generator for LegalDuel
 
 My team and I developed an AI web application that takes text input or a pdf upload, to generate a chronology for legal cases. 
 
 **Tools: Python, Spacy, OpenAI, HTML, CSS, JavaScript**
+
+**What we did: Used the Spacy for NLP, finetuned Open AI's pretrained models to generate text (creating JSONL files with 10 training examples), utilized prompt engineering and Open AI's chat completions endpoint to get the model to generate the best results.**
+
+**Results: When we finetuned the models, the best training loss we achieved was 0.2. However, the mode that we submitted to the LegalDuel platform placed 11th out of 13 bots on LegalDuel.**
+
+**Curious? See the full project [here](https://github.com/tiffanyfu7/legalduel-1b-ai-studio)**
 
  ## 📫 How to reach me
 
