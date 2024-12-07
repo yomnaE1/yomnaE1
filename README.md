@@ -8,7 +8,7 @@ Hello, welcome to my portfolio where I will showcase the projects that I have co
 I have been interested in computer science ever since I've learned how to program my first HTML website in middle school (not my best work). Since then, I've decided to take a deep dive into the field and explore the many different niches that this major has to offer. So far, I have been teaching myself how to use new tools and have become well-versed in several programming languages and tools, as listed below. Additionally, I have taken an interest in machine learning and data science ever since joining the [Break Through Tech AI](https://www.breakthroughtech.org/) 2024-2025 cohort where I have learned how to analyze the meaning behind datasets and utilized AI tools to solve common legal tasks. As my skillset continues to grow, I hope to use my knowledge to make a positive impact on society and gain more experience within the tech field. If you would like to connect with me, please feel free to reach out! Looking forward to see what is in store for the future!
 <br>
 
-## 🧰 Tools & Technologies
+## 🛠️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java&logoColor=white)
