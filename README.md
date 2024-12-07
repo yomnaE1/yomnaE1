@@ -25,6 +25,10 @@ I've been interested in CS ever since I've learned how to program my first HTML 
 
 ## 🎯 Featured Project: Legal Case Chronology Generator for LegalDuel
 
+My team and I developed an AI web application that takes text input or a pdf upload, to generate a chronology for legal cases. 
+
+**Tools: Python, Spacy, OpenAI, HTML, CSS, JavaScript**
+
  ## 📫 How to reach me
 
  <a href="mailto:yomnaelmousalami@gmail.com">
