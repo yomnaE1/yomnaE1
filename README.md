@@ -36,7 +36,7 @@ My team and I developed an AI web application that takes in text input or a pdf 
 
 **Curious? See the full project [here](https://github.com/tiffanyfu7/legalduel-1b-ai-studio)**
 
-##🚀 Other Projects
+## 🚀 Other Projects
 
 A few other noteworthy projects: 
 
