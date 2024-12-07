@@ -1,9 +1,11 @@
 # Hi, I'm Yomna 👋
 **:mortar_board: Senior at Old Dominion University, studying Computer Science, minoring in Data Science**
 <br>
-**🔭 Interested in Data Science, Machine Learning, Software Engineering, and Research**
+**🔭 Interested in Data Science, ML, SWE, and Research**
 
 Hello, welcome to my portfolio where I will showcase the projects that I have completed.
+
+I have been interested in computer science ever since I've learned how to program my first website (not my best work) in middle school. Since then, I've decided to take a deep dive into the field and explore the many different niches that this major has to offer. So far, I have been teaching myself how to use new tools and have become well-versed in several programming languages and tools, as listed below. Additionally, I have taken an interest in machine learning and data science ever since joining the [Break Through Tech AI](https://www.breakthroughtech.org/) 2024-2025 cohort where I have learned how to analyze the meaning behind datasets and utilizing AI tools. 
 
 ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java&logoColor=white)
